@@ -1,0 +1,52 @@
+/* Display Property */
+.css-dp-block{
+    display: block;
+}
+.css-dp-flex{
+    display: flex;
+}
+
+/* Position property */
+.css-ps-absolute{
+    position: absolute;
+}
+
+/* Cursor property */
+.css-cs-pointer{
+    cursor: pointer;
+}
+
+/* Border property */
+.css-bd-none{
+    border: none;
+}
+
+/* Custom button block */
+.css-prm-button{
+    cursor: pointer;
+    display: block;
+    border: solid 1px rgb(135, 158, 223);
+    background-color: rgb(88, 88, 209);
+    color: white;
+    border-radius: 3px;
+}
+.css-prm-button:hover{
+    font-size: 14px;
+}
+.css-prm-button:active{
+    font-size: 12px;
+}
+.css-sec-button{
+    cursor: pointer;
+    display: block;
+    border: solid 1px rgb(88, 88, 209);
+    background-color:transparent;
+    color: rgb(88, 88, 209);
+    border-radius: 3px;
+}
+.css-sec-button:hover{
+    font-size: 14px;
+}
+.css-sec-button:active{
+    font-size: 12px;
+}
